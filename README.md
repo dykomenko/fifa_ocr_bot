@@ -1,4 +1,4 @@
-# FIFA OCR Bot 🇷🇺⚽
+# FIFA OCR Bot 
 
 <p align="center">
   <img src="assets/images/ocr.png" alt="logo" width="250" height="250" />
@@ -99,4 +99,5 @@ Modrić
 ## 🤝 Благодарности
 
 - [the_ocr_bot](https://github.com/amit-y11/the_ocr_bot)
+
 
