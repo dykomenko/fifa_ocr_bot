@@ -1,0 +1,23 @@
+{
+    "name": "OCR Bot",
+    "description": "Telegram bot for to convert image to text",
+    "author": "Amit",
+    "keywords": [
+        "python",
+        "ocr",
+        "image to text",
+        "Optical Character Recognition"
+    ],
+    "repository": "https://github.com/amit-y11/the_ocr_bot",
+    "env":{
+        "BOT_TOKEN":{
+            "description":"Telegram bot token",
+            "required":"True"
+        },
+        "API_KEY":{
+            "description":"Api key from https://ocr.space/ocrapi",
+            "required":"True"
+        }
+    }
+
+}
